@@ -1,0 +1,16 @@
+/* 
+    Document   : style
+    Created on : 2013-sep-08, 19:38:43
+    Author     : Kristian Erendi
+    Url        : http://reptilo.se
+    Description: Generic style for the search   
+*/
+
+root{display: block;}
+.clear{clear:both;}
+#magic{display:inline; margin-left: 20px; color:#7D7D7D;}
+#item-list{width:800px;list-style: none;padding:0;}
+#item-list div{display:inline;float:left;}
+#item-list .produkt, #item-list .kategori{width:400px;}
+#item-list .header{width:400px; font-weight: bold;}
+
